@@ -1,0 +1,8 @@
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\bin\Release\AutoLogInShadowsocks.exe.config
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\bin\Release\AutoLogInShadowsocks.exe
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\bin\Release\AutoLogInShadowsocks.pdb
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\obj\Release\AutoLogInShadowsocks.Form1.resources
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\obj\Release\AutoLogInShadowsocks.Properties.Resources.resources
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\obj\Release\AutoLogInShadowsocks.csproj.GenerateResource.Cache
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\obj\Release\AutoLogInShadowsocks.exe
+D:\Users\Oscar\Visual Studio\Projects\AutoLogInShadowsocks\AutoLogInShadowsocks\obj\Release\AutoLogInShadowsocks.pdb
